@@ -6,6 +6,7 @@
 ## 👀 About Me
 #### 🫀 AI Engineer focusing on healthcare
 #### 🎓 Bachelor of Medical IT & BME, Eulji University
+📁 [Portfolio (Notion)](https://jet-honesty-367.notion.site/Portfolio-1831b2a8468b808e846decdc2190bb4c?source=copy_link)
 <br/>
 
 ## 🧱 Tech Stack
