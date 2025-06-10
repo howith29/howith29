@@ -7,7 +7,6 @@
 #### 🫀 AI Engineer focusing on healthcare
 #### 🎓 Bachelor of Medical IT & BME, Eulji University
 <br/>
-<br/>
 
 ## 🧱 Tech Stack
 ### Language
@@ -23,6 +22,13 @@
 ### Framework
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <br/>
+
+## 🚧 Currently Working On  
+### 💬 Medical-Chatbot-RAG
+AI-powered medical consultation chatbot with RAG system and automated emergency assessment
+- 🛠 Python, LangChain, OpenAI, FAISS, Pandas
+- 🏥 Intent analysis → Emergency evaluation → Medical consultation
+- ➡️ [GitHub](https://github.com/howith29/medicine_Chat)
 <br/>
 
 ## 🧩 Major Projects
@@ -51,5 +57,7 @@ Voice-based industrial accident prevention system using GPT-3.5 API and AWS
 Analysis of sleep disorder patterns and prediction using public health data  
 - 🛠 Python, Pandas, Scikit-learn 
 - 🧪 머신러닝 모델 기반 수면장애 예측 실험 (청년취업사관학교)  
-➡️ [GitHub](https://github.com/howith29/Sleep_Disorder_Analysis)
+➡️ [GitHub](https://github.com/howith29/Urban_Sleep_disorder_Analysis)
+
+
 
