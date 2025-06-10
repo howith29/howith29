@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Library & Framework  
-<img src="https://img.shields.io/badge/Flask-000000?style=flat square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/#00000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 ### ETC  
