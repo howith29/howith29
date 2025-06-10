@@ -22,6 +22,34 @@
 
 ### Framework
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<br/>
+<br/>
 
-### ETC  
+## 🧩 Major Projects
+### 🫀 Heart-Failure-ML  
+Heart failure prediction using 6 machine learning models (Graduation thesis)  
+- 🛠 Python, Scikit-learn, SMOTE, Pandas, Matplotlib  
+- 📊 Model evaluation & performance comparison  
+➡️ [GitHub](https://github.com/howith29/Heart_Failure_Prediction)
+<br/>
+
+### 🔬 PIGNAL-AI    
+AI-powered facial skin health analyzer using YOLOv8 & MediaPipe  
+- 🛠 Python, YOLOv8, MediaPipe, Streamlit  
+- 📌 Digital Healthcare project (청년취업사관학교)  
+➡️ [GitHub](https://github.com/NIS-co-create/acne-CV)
+<br/>
+
+### ⛑️ Voicebot_safety 
+Voice-based industrial accident prevention system using GPT-3.5 API and AWS  
+- 🛠 Python, Flask, GPT-3.5, AWS EC2, SpeechRecognition  
+- 🏅 Team Leader | Best Award @ 데이터 청년 캠퍼스  
+➡️ [GitHub](https://github.com/howith29/Voicebot_safety_AWS)
+<br/>
+
+### 🌃 Sleep_Disorder_Analysis  
+Analysis of sleep disorder patterns and prediction using public health data  
+- 🛠 Python, Pandas, Scikit-learn 
+- 🧪 머신러닝 모델 기반 수면장애 예측 실험 (청년취업사관학교)  
+➡️ [GitHub](https://github.com/howith29/Sleep_Disorder_Analysis)
 
