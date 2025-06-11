@@ -51,7 +51,7 @@ AI-powered facial skin health analyzer using YOLOv8 & MediaPipe
 Voice-based industrial accident prevention system using GPT-3.5 API and AWS  
 - 🛠 Python, Flask, GPT-3.5, AWS EC2, SpeechRecognition  
 - 🏅 Team Leader | Best Award @ 데이터 청년 캠퍼스  
-➡️ [GitHub](https://github.com/howith29/Voicebot_safety_AWS)
+➡️ [GitHub](https://github.com/howith29/Emergpt-Voice-Bot.git)
 <br/>
 
 ### 🌃 Sleep_Disorder_Analysis  
