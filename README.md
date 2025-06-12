@@ -6,7 +6,7 @@
 ## 👀 About Me
 #### 🫀 AI Engineer focusing on healthcare
 #### 🎓 Bachelor of Medical IT & BME, Eulji University
-📁 [Portfolio (Notion)](https://jet-honesty-367.notion.site/Portfolio-1831b2a8468b808e846decdc2190bb4c?source=copy_link)
+
 <br/>
 
 ## 🧱 Tech Stack
@@ -26,38 +26,43 @@
 
 ## 🚧 Currently Working On  
 ### 💬 Medical-Chatbot-RAG
-AI-powered medical consultation chatbot with RAG system and automated emergency assessment
+RAG 기반 AI 의료 상담 챗봇
 - 🛠 Python, LangChain, OpenAI, FAISS, Pandas
-- 🏥 Intent analysis → Emergency evaluation → Medical consultation
+- 🏥 문장 의도 분석 → 응급도 평가 → 의료 상담
+- 👩‍💻 전체 로직 구현 담당 (개발자)
 - ➡️ [GitHub](https://github.com/howith29/medicine_Chat)
 <br/>
 
 ## 🧩 Major Projects
 ### 🫀 Heart-Failure-ML  
-Heart failure prediction using 6 machine learning models (Graduation thesis)  
+6가지 머신러닝 모델을 활용한 심부전 예측 (졸업논문)
 - 🛠 Python, Scikit-learn, SMOTE, Pandas, Matplotlib  
-- 📊 Model evaluation & performance comparison  
+- 📊 모델 성능 비교 및 최적 모델 도출
+- 👤 개인 프로젝트
 ➡️ [GitHub](https://github.com/howith29/Heart_Failure_Prediction)
 <br/>
 
 ### 🔬 PIGNAL-AI    
-AI-powered facial skin health analyzer using YOLOv8 & MediaPipe  
-- 🛠 Python, YOLOv8, MediaPipe, Streamlit  
-- 📌 Digital Healthcare project (청년취업사관학교)  
+YOLOv8 & MediaPipe 기반 얼굴 피부 분석 AI 
+- 🛠 Python, YOLOv8, MediaPipe, flask
+- 📌 디지털 헬스케어 프로젝트 (청년취업사관학교)
+- 👩‍💻 개발 팀장 | 기획-개발 조율, 프론트·서버 개발 주도  
 ➡️ [GitHub](https://github.com/NIS-co-create/acne-CV)
 <br/>
 
 ### ⛑️ Voicebot_safety 
-Voice-based industrial accident prevention system using GPT-3.5 API and AWS  
-- 🛠 Python, Flask, GPT-3.5, AWS EC2, SpeechRecognition  
-- 🏅 Team Leader | Best Award @ 데이터 청년 캠퍼스  
+GPT-3.5 & 음성인식 기반 산업재해 예방 시스템
+- 🛠 Python, Flask, GPT-3.5, AWS EC2, SpeechRecognition
+- 👨‍👩‍👧 팀 리더 | 프론트, 백엔드 서포트 및 전체 흐름 관리  
+- 🏅 데이터 청년 캠퍼스 우수상  
 ➡️ [GitHub](https://github.com/howith29/Emergpt-Voice-Bot.git)
 <br/>
 
 ### 🌃 Sleep_Disorder_Analysis  
-Analysis of sleep disorder patterns and prediction using public health data  
+공공보건 데이터를 활용한 수면장애 분석 및 예측
 - 🛠 Python, Pandas, Scikit-learn 
-- 🧪 머신러닝 모델 기반 수면장애 예측 실험 (청년취업사관학교)  
+- 🧪 머신러닝 기반 수면장애 예측 실험 (청년취업사관학교)
+- 👩‍💻 데이터 수집·전처리 및 모델링 담당
 ➡️ [GitHub](https://github.com/howith29/Urban_Sleep_disorder_Analysis)
 
 
