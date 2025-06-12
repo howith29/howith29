@@ -38,7 +38,7 @@ RAG 기반 AI 의료 상담 챗봇
 6가지 머신러닝 모델을 활용한 심부전 예측 (졸업논문)
 - 🛠 Python, Scikit-learn, SMOTE, Pandas, Matplotlib  
 - 📊 모델 성능 비교 및 최적 모델 도출
-- 👤 개인 프로젝트
+- 👤 개인 프로젝트  
 ➡️ [GitHub](https://github.com/howith29/Heart_Failure_Prediction)
 <br/>
 
