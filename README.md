@@ -62,7 +62,7 @@ GPT-3.5 & 음성인식 기반 산업재해 예방 시스템
 공공보건 데이터를 활용한 수면장애 분석 및 예측
 - 🛠 Python, Pandas, Scikit-learn 
 - 🧪 머신러닝 기반 수면장애 예측 실험 (청년취업사관학교)
-- 👩‍💻 데이터 수집·전처리 및 모델링 담당
+- 👩‍💻 데이터 수집·전처리 및 모델링 담당  
 ➡️ [GitHub](https://github.com/howith29/Urban_Sleep_disorder_Analysis)
 
 
