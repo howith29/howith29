@@ -5,7 +5,7 @@
 <!--Body-->
 ## 👀 About Me
 #### 🫀 AI Engineer focusing on healthcare
-#### 🎓 Bachelor of Medical IT & BME, Eulji University
+#### 🎓 Bachelor of Medical IT & Biomedical Engineering, Eulji University
 
 <br/>
 
