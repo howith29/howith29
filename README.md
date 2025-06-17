@@ -30,7 +30,7 @@ RAG 기반 AI 의료 상담 챗봇
 - 🛠 Python, LangChain, OpenAI, FAISS, Pandas
 - 🏥 문장 의도 분석 → 응급도 평가 → 의료 상담
 - 👩‍💻 전체 로직 구현 담당 (개발자)  
-- ➡️ [GitHub](https://github.com/howith29/medicine_Chat)
+- ➡️ [GitHub](https://github.com/howith29/yaktalk)
 <br/>
 
 ## 🧩 Major Projects
